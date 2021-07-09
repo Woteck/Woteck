@@ -1,8 +1,6 @@
 ### Hi there, I'm Woteck 👋
 
 ## I'm a Student, Developer, Self-Learner, and Python lover!
-- 🔭 I’m currently working on project on my Raspberry Pi, Arduino, ESP32 !
-- 🌱 I’m currently learning LaTex and Manim
 
 ### Connect with me:
 
